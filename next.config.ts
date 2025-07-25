@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'api.ultrapanel.shop',
+        hostname: 'api.raspadinhaoficial.com.br',
         port: '',
         pathname: '/uploads/**',
       },
